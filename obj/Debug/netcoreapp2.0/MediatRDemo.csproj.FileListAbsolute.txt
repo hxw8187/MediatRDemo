@@ -1,0 +1,11 @@
+D:\_c#project\学习\MediatRDemo\bin\Debug\netcoreapp2.0\MediatRDemo.deps.json
+D:\_c#project\学习\MediatRDemo\bin\Debug\netcoreapp2.0\MediatRDemo.runtimeconfig.json
+D:\_c#project\学习\MediatRDemo\bin\Debug\netcoreapp2.0\MediatRDemo.runtimeconfig.dev.json
+D:\_c#project\学习\MediatRDemo\bin\Debug\netcoreapp2.0\MediatRDemo.dll
+D:\_c#project\学习\MediatRDemo\obj\Debug\netcoreapp2.0\MediatRDemo.csprojAssemblyReference.cache
+D:\_c#project\学习\MediatRDemo\obj\Debug\netcoreapp2.0\MediatRDemo.csproj.CoreCompileInputs.cache
+D:\_c#project\学习\MediatRDemo\obj\Debug\netcoreapp2.0\MediatRDemo.AssemblyInfoInputs.cache
+D:\_c#project\学习\MediatRDemo\obj\Debug\netcoreapp2.0\MediatRDemo.AssemblyInfo.cs
+D:\_c#project\学习\MediatRDemo\bin\Debug\netcoreapp2.0\MediatRDemo.pdb
+D:\_c#project\学习\MediatRDemo\obj\Debug\netcoreapp2.0\MediatRDemo.dll
+D:\_c#project\学习\MediatRDemo\obj\Debug\netcoreapp2.0\MediatRDemo.pdb
